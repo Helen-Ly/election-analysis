@@ -51,9 +51,10 @@ The analysis for the challenge show that:
 If you would like to try out this code to get the following results:
   1. Download *election_results.csv* from the *resources* folder.
   2. Download this python file, *PyPoll_Challenge.py*
-  3. Open your python interpreter, type the following and press Enter:
+  3. Open your python interpreter, type the following and press Enter: (If you are using *Visual Studio Code* to run this, you will need to open the file in the terminal and type the code there.)
     
     > python .\PyPoll_Challenge.py
+    
   4. Your results will populate in the interpreter.
   5. If you want to see the results printed out in the text file, download *election_analysis.txt*
   6. You can see the difference between the project results versus the challenge results by going through steps 2-5 but with the file, *PyPoll.py*, and running the file with the following code in your python interpreter:
